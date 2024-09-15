@@ -31,6 +31,13 @@
     "email": "alefteris@gmail.com",
     "url": "http://thanoslefteris.com/"
   },
+  "contributors": [
+    {
+      "name": "Iordanis Kostelidis",
+      "email": "ikostelidis@kostelidis.dev",
+      "url": "https://kostelidis.dev"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/greecejs/greece-postal-code/issues"
